@@ -1,0 +1,5 @@
+La formation est assez complète et le support simple et compréhensible.
+Oni y voit toutes les commandes importantes de git (et c'est un bon support de rappel pour la suite) 
+J'attends de voir la suite pour la partie Stambia !
+
+Personnellement je trouve que git est beaucoup plus poussé en ce qui concerne le versionning que le svn
